@@ -34,3 +34,4 @@
 
 ⭐️ From [BlackTea-c](https://github.com/BlackTea-c)
 
+![banner](github-metrics.svg)
