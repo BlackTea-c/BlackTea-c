@@ -21,12 +21,16 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [Skyrim Mod Recommendation](((https://github.com/BlackTea-c/MoiveRecommand)))
-- [Yolov5 help to aim in Calabiqiu](((https://github.com/BlackTea-c/Calabiqiu))
+- [Skyrim Mod Recommendation 上古卷轴MOD个性化推荐](https://github.com/BlackTea-c/MoiveRecommand)
+- [Yolov5 help to aim in Calabiqiu 基于yolo的卡拉比丘瞄准辅助](https://github.com/BlackTea-c/Calabiqiu)
 
 ### 关于我
 
 > ***looking for internship😊***
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackTea-c)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ⭐️ From [BlackTea-c](https://github.com/BlackTea-c)
+
