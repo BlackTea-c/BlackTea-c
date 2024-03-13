@@ -1,7 +1,7 @@
 ## Hello 👋
 
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://i0.hdslb.com/bfs/article/766b34dee5bb1d411d6a30eb9f598a4d8a99a6af.gif@!web-article-pic.avif" />
 
 ### I'm Guobling
 
@@ -21,7 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [Skyrim Mod Recommendation]((https://github.com/BlackTea-c/MoiveRecommand))
+- [Skyrim Mod Recommendation](((https://github.com/BlackTea-c/MoiveRecommand)))
 - [Yolov5 help to aim in Calabiqiu](((https://github.com/BlackTea-c/Calabiqiu))
 
 ### 关于我
