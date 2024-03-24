@@ -24,6 +24,7 @@
 - [Skyrim Mod Recommendation 上古卷轴MOD个性化推荐](https://github.com/BlackTea-c/MoiveRecommand)
 - [Yolov5 help to aim in Calabiqiu 基于yolo的卡拉比丘瞄准辅助](https://github.com/BlackTea-c/Calabiqiu)
 - [AItextDetect 基于TDF-IDF与多分类器的Ai生成文本识别](https://github.com/BlackTea-c/AItextDetect)
+- [轻量化的本地ASMR日转中AI翻译，施工ing](https://github.com/BlackTea-c/ASMR-)
 ### 关于我
 
 > ***looking for internship😊***
