@@ -5,7 +5,7 @@
 
 ### I'm Guobling
 
-- An Applied Mathematic Student. & Open Source enthusiast.
+- An Applied Mathematic Mphil Student At NUS. & Open Source enthusiast.
 
 - 💬 Ask me about my projects on [cloudwantyou@gmail.com](mailto:cloudwantyou@gmail.com)
 - ⚡ Fun fact: Data Analysis,Recommendation System,machine learning
