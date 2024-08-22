@@ -27,8 +27,6 @@
 - [轻量化的本地ASMR日转中AI翻译，施工ing](https://github.com/BlackTea-c/ASMR-)
 ### 关于我
 
-> ***looking for internship😊***
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackTea-c)](https://github.com/anuraghazra/github-readme-stats)
 
