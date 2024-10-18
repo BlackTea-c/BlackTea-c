@@ -3,9 +3,7 @@
 ---
 <img align="right" alt="GIF" src="https://i0.hdslb.com/bfs/article/766b34dee5bb1d411d6a30eb9f598a4d8a99a6af.gif@!web-article-pic.avif" />
 
-### I'm Guobling
-
-- A Mphil Student At NUS. & Open Source enthusiast.
+### I'm BlackTea-c
 
 - 💬 Ask me about my projects on [cloudwantyou@gmail.com](mailto:cloudwantyou@gmail.com)
 - ⚡ Fun fact: Data Analysis,Recommendation System,machine learning
