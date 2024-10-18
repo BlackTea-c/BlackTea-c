@@ -3,10 +3,11 @@
 ---
 <img align="right" alt="GIF" src="https://i0.hdslb.com/bfs/article/766b34dee5bb1d411d6a30eb9f598a4d8a99a6af.gif@!web-article-pic.avif" />
 
-### I'm BlackTea-c
+### I'm BlackTea-c,RPG std in NUS.
 
 - 💬 Ask me about my projects on [cloudwantyou@gmail.com](mailto:cloudwantyou@gmail.com)
-- ⚡ Fun fact: Data Analysis,Recommendation System,machine learning
+- ⚡ Current Fun Fact: MutiAgent,Embodied Agent,Recommendation System..
+- 
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -22,7 +23,6 @@
 - [Skyrim Mod Recommendation 上古卷轴MOD个性化推荐](https://github.com/BlackTea-c/MoiveRecommand)
 - [Yolov5 help to aim in Calabiqiu 基于yolo的卡拉比丘瞄准辅助](https://github.com/BlackTea-c/Calabiqiu)
 - [AItextDetect 基于TDF-IDF与多分类器的Ai生成文本识别](https://github.com/BlackTea-c/AItextDetect)
-- [轻量化的本地ASMR日转中AI翻译，施工ing](https://github.com/BlackTea-c/ASMR-)
 ### 关于我
 
 
