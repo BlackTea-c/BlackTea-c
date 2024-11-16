@@ -1,7 +1,7 @@
 ## Hello 👋
 
 ---
-<img align="right" alt="GIF" src="https://i0.hdslb.com/bfs/article/766b34dee5bb1d411d6a30eb9f598a4d8a99a6af.gif@!web-article-pic.avif" />
+<img align="right" alt="GIF" src="[https://i0.hdslb.com/bfs/article/766b34dee5bb1d411d6a30eb9f598a4d8a99a6af.gif@!web-article-pic.avif](https://i.pximg.net/img-original/img/2024/04/18/00/00/07/117930345_p0.jpg)" />
 
 ### I'm BlackTea-c
 
